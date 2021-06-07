@@ -15,6 +15,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
  * Handles requests for the application home page.
  */
 //1번 commit
+//2번 commit
 @Controller
 public class HomeController {
 	
